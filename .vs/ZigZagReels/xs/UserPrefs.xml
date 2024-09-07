@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2FF7F151-A7F5-FBA1-907D-B57827809B9C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ZigZag/Script/SlotMachine.cs">
+    <Files>
+      <File FileName="Assets/ZigZag/Script/SlotMachine.cs" Line="61" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1c48f364-7126-4bba-88d2-db368f8d62c0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

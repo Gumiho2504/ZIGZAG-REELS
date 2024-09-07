@@ -1,0 +1,23 @@
+# ninja log v5
+1314	1384	1724645631736225500	/Users/rose/Documents/UnityGame/KhmerSlots/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6q1t4t18/obj/arm64-v8a/libgame.so	262e64542725a28f
+0	1314	1724645631667512194	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f05e38cf4a0260f0
+1	1070	1724645631424664781	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	942c609b5670568
+2	1180	1724645631534781013	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	39c451f347e61707
+4	1058	1724645631412178866	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3822714fd9f540f8
+3	1014	1724645631368914183	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ad1ba46c4ec6c2d7
+1	967	1724645631320792945	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a71c309c4f9e24e5
+2	944	1724645631297905371	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9aeb84385a478bd
+3	981	1724645631334200697	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	417606a2bab7b0a3
+265	366	1724645630717633280	/Users/rose/Documents/UnityGame/KhmerSlots/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6q1t4t18/obj/arm64-v8a/libswappywrapper.so	3ced301f3902ca09
+4	265	1724645630621026466	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	42eb6bca6b66e8ac
+15	818	1724897034735020712	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	42eb6bca6b66e8ac
+818	1172	1724897035089150795	/Users/rose/Documents/UnityGame/KhmerSlots/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6q1t4t18/obj/arm64-v8a/libswappywrapper.so	3ced301f3902ca09
+10	1374	1724897035291851164	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9aeb84385a478bd
+10	1429	1724897035346758640	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a71c309c4f9e24e5
+12	1435	1724897035349465526	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	417606a2bab7b0a3
+13	1458	1724897035376621550	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ad1ba46c4ec6c2d7
+14	1583	1724897035499905387	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3822714fd9f540f8
+10	1636	1724897035551374172	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	942c609b5670568
+11	1699	1724897035616341967	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	39c451f347e61707
+9	1848	1724897035767425174	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f05e38cf4a0260f0
+1848	1923	1724897035838345542	/Users/rose/Documents/UnityGame/KhmerSlots/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6q1t4t18/obj/arm64-v8a/libgame.so	262e64542725a28f

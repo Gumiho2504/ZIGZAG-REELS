@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D9B12F87-865C-5264-006E-2650099B9698}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KhmerSlots/Script/SlotMachine.cs">
+    <Files>
+      <File FileName="Assets/KhmerSlots/Script/SlotMachine.cs" Line="188" Column="30" />
+      <File FileName="Assets/KhmerSlots/Script/Test.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="530350f4-b182-47d8-8042-7d918152458a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
